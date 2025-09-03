@@ -1,6 +1,6 @@
 **Steps to build and run code**
 
-cd build/
+cd my_math/build/
 
 rm -rf *
 
