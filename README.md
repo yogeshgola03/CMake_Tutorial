@@ -1,8 +1,8 @@
 **Steps to build and run code**
 
-cd my_math/build/
+cd my_math/
 
-rm -rf *
+mkdir build
 
 cmake ..
 
